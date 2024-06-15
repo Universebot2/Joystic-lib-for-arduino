@@ -1,5 +1,7 @@
 A simple joystic library for use with arduino. It requires nothing but three pins specified - and you have full access to your joystic control
 
+to initialize: STICK your_name(button_pin, x_pin, y_pin)
+
 All functions available are there in "all functions" example, but I'l duplicate them here:
 
 available()) 1/true - stick in use, 0/false - stick in the middle position
